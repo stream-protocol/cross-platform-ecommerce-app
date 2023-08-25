@@ -1,1 +1,1 @@
-# cross-platform-ecommerce-app
+# Cross-Platform e-Commerce App
